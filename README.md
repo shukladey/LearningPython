@@ -6,3 +6,4 @@ A collection of short, practical tips while learning Python to prepare for inter
 - sourced from Masters learning program
 - Hackerrank practice
 - basic open source Python learning files
+- AI tools for updates
